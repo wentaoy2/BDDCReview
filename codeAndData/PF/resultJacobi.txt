@@ -1,0 +1,1072 @@
+importing NGSolve-6.2.1810
+importing NGSolve-6.2.1810
+importing NGSolve-6.2.1810
+importing NGSolve-6.2.1810
+Hello from rank 0 of 1
+ set global mesh
+ Start Findpoints
+ main-solids: 1
+ Found points 1 Found points 2 Found points 3 Found points 4 Found points 5 Found points 6 Found points 7 Found points 8 Found points 8
+ Analyze spec points
+ done
+ find points done
+ Find edges
+ 12 edges found
+ Check intersecting edges
+ CalcLocalH: 116 Points 0 Elements 0 Surface Elements
+ Start Findpoints
+ Analyze spec points
+ done
+ Find edges
+ 12 edges found
+ Check intersecting edges
+ Start Findpoints
+ Analyze spec points
+ done
+ Find edges
+ 12 edges found
+ Check intersecting edges
+ Surface 1 / 6
+ load internal triangle rules
+ Surface meshing done
+ Optimize Surface
+Hello from rank 0 of 1
+ set global mesh
+ Start Findpoints
+ main-solids: 1
+ Found points 1 Found points 2 Found points 3 Found points 4 Found points 5 Found points 6 Found points 7 Found points 8 Found points 8
+ Analyze spec points
+ done
+ find points done
+ Find edges
+Hello from rank 0 of 1
+ set global mesh
+ Start Findpoints
+ main-solids: 1
+ Found points 1 Found points 2 Found points 3 Found points 4 Found points 5 Found points 6 Found points 7 Found points 8 Found points 8
+ Analyze spec points
+ done
+ find points done
+ Find edges
+ 12 edges found
+ Check intersecting edges
+ CalcLocalH: 116 Points 0 Elements 0 Surface Elements
+ 12 edges found
+ Check intersecting edges
+ CalcLocalH: 116 Points 0 Elements 0 Surface Elements
+Hello from rank 0 of 1
+ set global mesh
+ Start Findpoints
+ main-solids: 1
+ Found points 1 Found points 2 Found points 3 Found points 4 Found points 5 Found points 6 Found points 7 Found points 8 Found points 8
+ Analyze spec points
+ done
+ find points done
+ Find edges
+ 218 elements, 206 points
+ Surface 2 / 6
+ load internal triangle rules
+ Start Findpoints
+ Analyze spec points
+ done
+ Find edges
+ 12 edges found
+ Check intersecting edges
+ Start Findpoints
+ Analyze spec points
+ done
+ Find edges
+ Start Findpoints
+ Analyze spec points
+ done
+ Find edges
+ 12 edges found
+ Check intersecting edges
+ CalcLocalH: 116 Points 0 Elements 0 Surface Elements
+ 12 edges found
+ Check intersecting edges
+ Surface 1 / 6
+ load internal triangle rules
+ 12 edges found
+ Check intersecting edges
+ Start Findpoints
+ Analyze spec points
+ done
+ Find edges
+ Surface meshing done
+ Optimize Surface
+ 12 edges found
+ Check intersecting edges
+ Surface 1 / 6
+ load internal triangle rules
+ Surface meshing done
+ Optimize Surface
+ Surface meshing done
+ Optimize Surface
+ Start Findpoints
+ Analyze spec points
+ done
+ Find edges
+ 12 edges found
+ Check intersecting edges
+ Start Findpoints
+ Analyze spec points
+ done
+ Find edges
+ 12 edges found
+ Check intersecting edges
+ Surface 1 / 6
+ load internal triangle rules
+ 250 elements, 312 points
+ Surface 3 / 6
+ load internal triangle rules
+ Surface meshing done
+ Optimize Surface
+ Surface meshing done
+ Optimize Surface
+ 218 elements, 206 points
+ Surface 2 / 6
+ load internal triangle rules
+ 218 elements, 206 points
+ Surface 2 / 6
+ load internal triangle rules
+ Surface meshing done
+ Optimize Surface
+ Surface meshing done
+ Optimize Surface
+ 218 elements, 206 points
+ Surface 2 / 6
+ load internal triangle rules
+ 250 elements, 418 points
+ Surface 4 / 6
+ load internal triangle rules
+ Surface meshing done
+ Optimize Surface
+ 250 elements, 312 points
+ Surface 3 / 6
+ load internal triangle rules
+ Surface meshing done
+ Optimize Surface
+ 250 elements, 312 points
+ Surface 3 / 6
+ load internal triangle rules
+ Surface meshing done
+ Optimize Surface
+ Surface meshing done
+ Optimize Surface
+ 250 elements, 312 points
+ Surface 3 / 6
+ load internal triangle rules
+ 238 elements, 518 points
+ Surface 5 / 6
+ load internal triangle rules
+ Surface meshing done
+ Optimize Surface
+ Surface meshing done
+ Optimize Surface
+ 250 elements, 418 points
+ Surface 4 / 6
+ load internal triangle rules
+ 250 elements, 418 points
+ Surface 4 / 6
+ load internal triangle rules
+ Surface meshing done
+ Optimize Surface
+ Surface meshing done
+ Optimize Surface
+ 250 elements, 418 points
+ Surface 4 / 6
+ load internal triangle rules
+ 244 elements, 621 points
+ Surface 6 / 6
+ load internal triangle rules
+ Surface meshing done
+ 238 elements, 518 points
+ Surface 5 / 6
+ load internal triangle rules
+ Optimize Surface
+ Surface meshing done
+ Optimize Surface
+ 238 elements, 518 points
+ Surface 5 / 6
+ load internal triangle rules
+ Surface meshing done
+ Optimize Surface
+ Surface meshing done
+ Optimize Surface
+ 244 elements, 724 points
+ SplitSeparateFaces
+ 238 elements, 518 points
+ Surface 5 / 6
+ load internal triangle rules
+ 244 elements, 621 points
+ Surface 6 / 6
+ load internal triangle rules
+ Surface meshing done
+ Optimize Surface
+ Check subdomain 1 / 1
+ 1434 open elements
+ 244 elements, 621 points
+ Surface 6 / 6
+ load internal triangle rules
+ 
+ Meshing subdomain 1 of 1
+ 1434 open elements
+ Use internal rules
+ Surface meshing done
+ Optimize Surface
+ 1434 open elements
+ Delaunay meshing
+ number of points: 719
+ blockfill local h
+ Surface meshing done
+ Optimize Surface
+ 244 elements, 621 points
+ Surface 6 / 6
+ load internal triangle rules
+ 244 elements, 724 points
+ SplitSeparateFaces
+ 244 elements, 724 points
+ SplitSeparateFaces
+ Surface meshing done
+ Optimize Surface
+ Check subdomain 1 / 1
+ 1434 open elements
+ 
+ Meshing subdomain 1 of 1
+ 1434 open elements
+ Use internal rules
+ Check subdomain 1 / 1
+ 1434 open elements
+ 
+ Meshing subdomain 1 of 1
+ 1434 open elements
+ Use internal rules
+ 1434 open elements
+ Delaunay meshing
+ number of points: 719
+ blockfill local h
+ 1434 open elements
+ Delaunay meshing
+ number of points: 719
+ blockfill local h
+ number of points: 1781
+ 244 elements, 724 points
+ SplitSeparateFaces
+ number of points: 1781
+ number of points: 1781
+ Check subdomain 1 / 1
+ 1434 open elements
+ 
+ Meshing subdomain 1 of 1
+ 1434 open elements
+ Use internal rules
+ 1434 open elements
+ Delaunay meshing
+ number of points: 719
+ blockfill local h
+.. number of points: 1781
+.
+ Points: 1781
+ Elements: 10157
+
+ Points: 1781
+ Elements: 10157
+ 0 open elements
+ Num open: 0
+ free: 0, fixed: 10157
+ SwapImprove 
+. 0 swaps performed
+ 0 open elements
+ Num open: 0
+ free: 0, fixed: 10157
+ SwapImprove 
+ 0 swaps performed
+ 0 open elements
+ Num open: 0
+ free: 0, fixed: 10157
+ SwapImprove 
+ 0 swaps performed
+
+ Points: 1781
+ Elements: 10157
+ 0 degenerated elements removed
+ 0 open elements
+ Num open: 0
+ free: 0, fixed: 10157
+ SwapImprove 
+ 0 swaps performed
+ Remove intersecting
+ Remove outer
+ 0 degenerated elements removed
+ tables filled
+ Remove intersecting
+ Remove outer
+ outer removed
+ 1434 open elements
+ 1781 points, 8620 elements
+ 0 open elements
+ Num open: 0
+ free: 0, fixed: 10157
+ SwapImprove 
+ tables filled
+ 0 swaps performed
+ outer removed
+ 1434 open elements
+ 1781 points, 8620 elements
+ 0 open elements
+ 0 open faces
+ start tetmeshing
+ Use internal rules
+ 
+ 0 open elements
+ Num open: 0
+ free: 0, fixed: 10157
+ SwapImprove 
+ 0 open elements
+ 0 open faces
+ start tetmeshing
+ Use internal rules
+ 0 swaps performed
+ 
+ 0 degenerated elements removed
+
+ Points: 1781
+ Elements: 10157
+ 0 open elements
+ Success !
+ 1781 points, 8620 elements
+ Remove Illegal Elements
+ 0 illegal tets
+ Volume Optimization
+ CombineImprove
+ Remove intersecting
+ Remove outer
+ 0 open elements
+ Success !
+ 1781 points, 8620 elements
+ Remove Illegal Elements
+ 0 illegal tets
+ tables filled
+ Volume Optimization
+ CombineImprove
+ outer removed
+ 1434 open elements
+ 1781 points, 8620 elements
+ 0 open elements
+ Num open: 0
+ free: 0, fixed: 10157
+ SwapImprove 
+ 0 swaps performed
+ 0 open elements
+ 0 open faces
+ start tetmeshing
+ Use internal rules
+ 
+ 0 open elements
+ Num open: 0
+ free: 0, fixed: 10157
+ SwapImprove 
+ 0 swaps performed
+ 0 degenerated elements removed
+ 0 open elements
+ Success !
+ 1781 points, 8620 elements
+ Remove Illegal Elements
+ 0 illegal tets
+ Volume Optimization
+ CombineImprove
+ Remove intersecting
+ Remove outer
+ 117 elements combined
+ tables filled
+ ImproveMesh
+ Total badness = 11676.8
+ 117 elements combined
+ outer removed
+ ImproveMesh
+ 1434 open elements
+++++ Total badness = 11676.8
+ 1781 points, 8620 elements
++++++++++++++++++++++++++++++++++++++++++++++++++ 0 open elements
+++ 0 open faces
+ start tetmeshing
+ Use internal rules
+++++++++++++++++++ 
+++++++++++++++++++++++++++++++++++++++++++++++++ 0 open elements
+++ Success !
+ 1781 points, 8620 elements
+++ Remove Illegal Elements
+++++++ 0 illegal tets
+++ Volume Optimization
+++ CombineImprove
+++++++++++++++ 117 elements combined
++++ ImproveMesh
++++++++ Total badness = 11676.8
+++++++++++++++++++++++++++++++++
++++++ Total badness = 11083.5
++ SplitImprove
+ badmax = 15.6111
++++++++++++++
+++++ Total badness = 11083.5
+ SplitImprove
++ badmax = 15.6111
+++++++++++++++++++++++++++++++++++++++++ 1 splits performed
++++ ImproveMesh
++++ Total badness = 11087.6
+++++++++++++++++++++++ 1 splits performed
+++++++ ImproveMesh
++++ 117 elements combined
+++++ ImproveMesh
+ Total badness = 11087.6
+++++++++++ Total badness = 11676.8
++++++++++++
++++++++++ Total badness = 11083.5
+++ SplitImprove
+++ badmax = 15.6111
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++ Total badness = 11019.4
++ SwapImprove 
++++++++ 1 splits performed
+++++++ ImproveMesh
+++++++++ Total badness = 11087.6
++++++++++++++++
+++++ Total badness = 11019.4
++ SwapImprove 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++ Total badness = 11083.5
+ SplitImprove
++ badmax = 15.6111
+++++++++++++++++++++++ 772 swaps performed
+++ SwapImprove2 
++++++++++++++
+ Total badness = 11019.4
+ SwapImprove 
+ 772 swaps performed
+ SwapImprove2 
+ 1 splits performed
+ ImproveMesh
+ Total badness = 11087.6
++++++++++++++++++++++++ 0 swaps performed
++++ ImproveMesh
+++ Total badness = 9860.65
++++++++++++++++++++++++++++++ 0 swaps performed
+++++ ImproveMesh
+++++++ Total badness = 9860.65
++++++++++++++++ 772 swaps performed
+++++++ SwapImprove2 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++
++++ Total badness = 9491.44
+ Total badness = 11019.4
+ SwapImprove 
+ CombineImprove
++++++++++++++++++++++ 0 swaps performed
++++ ImproveMesh
++
+ Total badness = 9860.65
+ Total badness = 9491.44
+ CombineImprove
++++++++++++++++++++++++++++++++++++++++++++ 59 elements combined
++ ImproveMesh
++++ Total badness = 9006.56
++++++++++++++++++++++++++++++++++++++++++++++++++++ 59 elements combined
++++ ImproveMesh
+++++++ Total badness = 9006.56
+++++++++++++ 772 swaps performed
++++++++ SwapImprove2 
++++++++++++++++++++++++++++++++++++++++++++++++
+++++++ Total badness = 9491.44
+++ CombineImprove
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++ Total badness = 8928.25
+ SplitImprove
++ badmax = 7.33523
++++++++++++++++++++++++++++++
+ Total badness = 8928.25
+ SplitImprove
+ badmax = 7.33523
+ 0 splits performed
+ 0 swaps performed
+ ImproveMesh
+ ImproveMesh
+ Total badness = 8928.25
+ Total badness = 9860.65
+ 59 elements combined
+++ ImproveMesh
++++++ Total badness = 9006.56
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 0 splits performed
++++++++++++ ImproveMesh
++++++++++++++ Total badness = 8928.25
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++ Total badness = 8921.13
++ SwapImprove 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++ Total badness = 8928.25
+ SplitImprove
++ badmax = 7.33523
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
++
+ Total badness = 9491.44
+ Total badness = 8921.13
+ SwapImprove 
+ CombineImprove
+ 0 splits performed
+ ImproveMesh
+ Total badness = 8928.25
++++ 141 swaps performed
+++ SwapImprove2 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 141 swaps performed
+++ SwapImprove2 
++++ 59 elements combined
+++ ImproveMesh
+++++ Total badness = 9006.56
+++ 0 swaps performed
+++++ ImproveMesh
+
++++ Total badness = 8829.75
+ Total badness = 8921.13
+ SwapImprove 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 0 swaps performed
++++++ ImproveMesh
++++++++ Total badness = 8829.75
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++ Total badness = 8751.05
+++ CombineImprove
+++++++++++++++++ 141 swaps performed
++++ SwapImprove2 
++++++++++++++
++++ Total badness = 8928.25
+ SplitImprove
++ badmax = 7.33523
+++++++++++++++++++++++++++++++++++++++
+ Total badness = 8751.05
+ CombineImprove
+ 0 splits performed
+ 23 elements combined
+ ImproveMesh
+ ImproveMesh
+ Total badness = 8928.25
+ Total badness = 8575.43
+++++++++++++++++++++++++++++++++++++++++++++ 0 swaps performed
+++++++ ImproveMesh
++++++++ Total badness = 8829.75
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 23 elements combined
++++ ImproveMesh
+++++++++ Total badness = 8575.43
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++ Total badness = 8553.26
++ SplitImprove
+++ badmax = 5.35074
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++ Total badness = 8921.13
+ SwapImprove 
++++++++++++++++++++++++++++++
++++ Total badness = 8751.05
++ CombineImprove
+++++
+ Total badness = 8553.26
+ SplitImprove
+ badmax = 5.35074
+ 0 splits performed
+ ImproveMesh
+ Total badness = 8553.26
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 23 elements combined
+ ImproveMesh
++++ Total badness = 8575.43
++++++++++++++++++ 0 splits performed
++++++++++ ImproveMesh
++++ 141 swaps performed
++++++ Total badness = 8553.26
++ SwapImprove2 
++++++++++++++++
+++++++ Total badness = 8550.69
+ SwapImprove 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++ Total badness = 8553.26
+ SplitImprove
++ badmax = 5.35074
++++++++++++ 51 swaps performed
++ SwapImprove2 
++++++
+ Total badness = 8550.69
+ SwapImprove 
+ 0 swaps performed
+ ImproveMesh
+ Total badness = 8829.75
++++++++++++++++++++++++++++++++ 0 splits performed
++++ ImproveMesh
++++ Total badness = 8553.26
++++++++++ 0 swaps performed
+++++++ ImproveMesh
+++++++ Total badness = 8532.99
++++++++++++++++++++++++++++++++++++++++ 51 swaps performed
++++++ SwapImprove2 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++ Total badness = 8751.05
++ CombineImprove
+++++++++++++++++++++
++++
+ Total badness = 8550.69
+ SwapImprove 
+ Total badness = 8504.21
+ 0 swaps performed
+ ImproveMesh
+ Total badness = 8532.99
++++++++++++++++++++++++++++++++++++++++++++++++++++++++ set global mesh
+ 1434 surface elements
+++ 23 elements combined
++ ImproveMesh
++++ 7035 volume elements
+++ Total badness = 8575.43
++++++++++++++++++++ 51 swaps performed
+++ SwapImprove2 
+++++++++++++++++++ 240 curve elements
+
++ 1583 points
+++ Total badness = 8504.21
++++ 1583 points done
++ Update mesh topology
+++ Update edges 
++++++++++++++++ Update faces 
+++++++++++++++ Update clusters
+++ set global mesh
+ Update mesh topology
++ Update edges 
++++++++++ Update faces 
++++++ 0 swaps performed
+++ set global mesh
+ 1434 surface elements
+ ImproveMesh
+ Total badness = 8532.99
+++++ Update clusters
++++++++++++++++rank 0 has 35038 of 35038 dofs!
++++++++++++++++ 7035 volume elements
++++++++
+++++ Total badness = 8553.26
+ SplitImprove
++ badmax = 5.35074
++++++++++ 240 curve elements
+++ 1583 points
++++++++++++++++ 1583 points done
++ Update mesh topology
+++ Update edges 
++++++++++++++++++++ Update faces 
+++++++++
+ Total badness = 8504.21
+ Update clusters
+ set global mesh
+ Update mesh topology
+ Update edges 
+ Update faces 
+ 0 splits performed
+ ImproveMesh
+assemble VOL element 7035/7035                                 
+ Total badness = 8553.26
+++++ Update clusters
+++++ set global mesh
+ 1434 surface elements
+ 7035 volume elements
+rank 0 has 35038 of 35038 dofs!
++++assemble VOL element 7035/7035                                 
+++++ 240 curve elements
++ 1583 points
++++++++++ 1583 points done
++ Update mesh topology
+++ Update edges 
+++++++++++++++++++ Update faces 
++++++++++++++++++++ Update clusters
++++ set global mesh
+ Update mesh topology
+++ Update edges 
+++++++++++++++++ Update faces 
++
+ Total badness = 8550.69
+ SwapImprove 
+assemble VOL element 7035/7035                                 
+ Update clusters
+rank 0 has 35038 of 35038 dofs!
+assemble VOL element 7035/7035                                 
+ 51 swaps performed
+ SwapImprove2 
+assemble VOL element 7035/7035                                 
+ 0 swaps performed
+ ImproveMesh
+ Total badness = 8532.99
+++++++++assemble VOL element 7035/7035                                 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ Total badness = 8504.21
+ set global mesh
+ 1434 surface elements
+ 7035 volume elements
+ 240 curve elements
+ 1583 points
+ 1583 points done
+ Update mesh topology
+ Update edges 
+assemble VOL element 2025/7035 Update faces 
+ Update clusters
+ set global mesh
+ Update mesh topology
+ Update edges 
+ Update faces 
+ Update clusters
+rank 0 has 35038 of 35038 dofs!
+assemble VOL element 1916/7035assemble VOL element 7035/7035                                 
+assemble VOL element 3710/7035assemble VOL element 7035/7035                                 
+assemble VOL element 1879/7035assemble VOL element 3768/7035assemble VOL element 5668/7035assemble VOL element 3906/7035assemble VOL element 7035/7035                                 
+Update Local Preconditionerassemble VOL element 5836/70350 nan
+assemble VOL element 5833/7035assemble VOL element 7035/7035                                 
+Update Local Preconditioner0 0.56511
+1 0.895311
+2 1.24321
+3 1.10156
+assemble VOL element 522/70354 0.815562
+5 0.550768
+6 0.452945
+7 0.376333
+8 0.326082
+9 0.286676
+10 0.261216
+11 0.241678
+12 0.226774
+13 0.222672
+14 0.221396
+15 0.201209
+16 0.16358
+17 0.127858
+18 0.0974663
+19 0.0752186
+assemble VOL element 7035/7035                                 
+Update Local Preconditioner20 0.060315
+0 0.56511
+21 0.0535421
+1 0.895311
+22 0.050419
+2 1.24321
+23 0.0473764
+3 1.10156
+24 0.0432996
+4 0.815562
+25 0.0367111
+5 0.550768
+26 0.0292845
+6 0.452945
+27 0.0220213
+7 0.376333
+28 0.0156631
+8 0.326082
+29 0.0113554
+9 0.286676
+30 0.00848346
+10 0.261216
+31 0.00683836
+11 0.241678
+32 0.00601218
+12 0.226774
+33 0.00559697
+13 0.222672
+assemble VOL element 2585/703534 0.00526394
+14 0.221396
+35 0.00466415
+15 0.201209
+36 0.00384922
+16 0.16358
+37 0.00308913
+17 0.127858
+38 0.0024405
+18 0.0974663
+39 0.00194781
+19 0.0752186
+40 0.00157691
+20 0.060315
+41 0.00128924
+21 0.0535421
+42 0.00108813
+22 0.050419
+43 0.000934434
+23 0.0473764
+44 0.000796924
+24 0.0432996
+45 0.000666086
+25 0.0367111
+46 0.000559555
+26 0.0292845
+47 0.000466003
+27 0.0220213
+48 0.000392566
+28 0.0156631
+49 0.000341226
+29 0.0113554
+50 0.000302647
+30 0.00848346
+51 0.000267185
+31 0.00683836
+52 0.000230032
+32 0.00601218
+53 0.000192598
+33 0.00559697
+54 0.00015839
+34 0.00526394
+35 0.00466415
+55 0.000125352
+36 0.00384922
+56 9.64646e-05
+37 0.00308913
+57 7.67344e-05
+38 0.0024405
+58 6.35226e-05
+39 0.00194781
+59 5.61066e-05
+40 0.00157691
+60 5.15966e-05
+41 0.00128924
+61 4.80078e-05
+62 4.44545e-05
+42 0.00108813
+63 3.87278e-05
+43 0.000934434
+assemble VOL element 4479/703544 0.000796924
+64 3.19616e-05
+45 0.000666086
+65 2.51403e-05
+46 0.000559555
+66 1.97143e-05
+47 0.000466003
+67 1.52972e-05
+48 0.000392566
+68 1.2188e-05
+49 0.000341226
+69 1.01474e-05
+50 0.000302647
+70 8.61922e-06
+71 7.74571e-06
+51 0.000267185
+52 0.000230032
+72 7.04146e-06
+53 0.000192598
+73 6.22802e-06
+54 0.00015839
+74 5.50002e-06
+55 0.000125352
+75 4.79138e-06
+56 9.64646e-05
+76 4.11208e-06
+57 7.67344e-05
+77 3.44445e-06
+58 6.35226e-05
+78 2.83195e-06
+59 5.61066e-05
+79 2.28759e-06
+60 5.15966e-05
+80 1.83085e-06
+61 4.80078e-05
+81 1.46768e-06
+62 4.44545e-05
+82 1.22115e-06
+63 3.87278e-05
+83 1.06151e-06
+64 3.19616e-05
+84 9.55461e-07
+65 2.51403e-05
+85 8.90626e-07
+66 1.97143e-05
+86 8.3952e-07
+67 1.52972e-05
+87 7.49109e-07
+68 1.2188e-05
+88 6.26999e-07
+69 1.01474e-05
+89 4.94203e-07
+70 8.61922e-06
+90 3.753e-07
+71 7.74571e-06
+91 2.88008e-07
+72 7.04146e-06
+92 2.32783e-07
+73 6.22802e-06
+93 2.00357e-07
+assemble VOL element 6369/703574 5.50002e-06
+94 1.86012e-07
+75 4.79138e-06
+95 1.78229e-07
+76 4.11208e-06
+96 1.6722e-07
+77 3.44445e-06
+97 1.49607e-07
+78 2.83195e-06
+98 1.27755e-07
+79 2.28759e-06
+99 1.01382e-07
+80 1.83085e-06
+100 7.91278e-08
+81 1.46768e-06
+101 6.28695e-08
+82 1.22115e-06
+102 5.23697e-08
+83 1.06151e-06
+103 4.52852e-08
+assemble VOL element 7035/7035                                 
+Update Local Preconditioner84 9.55461e-07
+104 3.97466e-08
+0 0.56511
+85 8.90626e-07
+105 3.45071e-08
+1 0.895311
+86 8.3952e-07
+106 2.95001e-08
+2 1.24321
+87 7.49109e-07
+107 2.46892e-08
+3 1.10156
+88 6.26999e-07
+108 2.0311e-08
+4 0.815562
+89 4.94203e-07
+109 1.69748e-08
+5 0.550768
+90 3.753e-07
+110 1.46363e-08
+6 0.452945
+91 2.88008e-07
+111 1.26375e-08
+7 0.376333
+92 2.32783e-07
+112 1.07762e-08
+8 0.326082
+93 2.00357e-07
+113 9.04125e-09
+9 0.286676
+94 1.86012e-07
+114 7.59143e-09
+10 0.261216
+95 1.78229e-07
+115 6.31469e-09
+11 0.241678
+96 1.6722e-07
+116 5.18259e-09
+12 0.226774
+97 1.49607e-07
+13 0.222672
+98 1.27755e-07
+14 0.221396
+99 1.01382e-07
+15 0.201209
+100 7.91278e-08
+16 0.16358
+101 6.28695e-08
+17 0.127858
+18 0.0974663
+102 5.23697e-08
+19 0.0752186
+103 4.52852e-08
+20 0.060315
+104 3.97466e-08
+21 0.0535421
+105 3.45071e-08
+22 0.050419
+106 2.95001e-08
+23 0.0473764
+107 2.46892e-08
+24 0.0432996
+108 2.0311e-08
+25 0.0367111
+109 1.69748e-08
+26 0.0292845
+110 1.46363e-08
+27 0.0220213
+111 1.26375e-08
+28 0.0156631
+112 1.07762e-08
+29 0.0113554
+113 9.04125e-09
+30 0.00848346
+114 7.59143e-09
+31 0.00683836
+115 6.31469e-09
+32 0.00601218
+116 5.18259e-09
+33 0.00559697
+34 0.00526394
+35 0.00466415
+36 0.00384922
+37 0.00308913
+38 0.0024405
+39 0.00194781
+40 0.00157691
+41 0.00128924
+42 0.00108813
+43 0.000934434
+44 0.000796924
+45 0.000666086
+46 0.000559555
+47 0.000466003
+48 0.000392566
+49 0.000341226
+50 0.000302647
+51 0.000267185
+52 0.000230032
+53 0.000192598
+54 0.00015839
+55 0.000125352
+56 9.64646e-05
+57 7.67344e-05
+58 6.35226e-05
+59 5.61066e-05
+60 5.15966e-05
+61 4.80078e-05
+62 4.44545e-05
+63 3.87278e-05
+64 3.19616e-05
+65 2.51403e-05
+66 1.97143e-05
+67 1.52972e-05
+68 1.2188e-05
+69 1.01474e-05
+70 8.61922e-06
+71 7.74571e-06
+72 7.04146e-06
+73 6.22802e-06
+74 5.50002e-06
+75 4.79138e-06
+76 4.11208e-06
+77 3.44445e-06
+78 2.83195e-06
+79 2.28759e-06
+80 1.83085e-06
+81 1.46768e-06
+82 1.22115e-06
+83 1.06151e-06
+84 9.55461e-07
+85 8.90626e-07
+86 8.3952e-07
+87 7.49109e-07
+88 6.26999e-07
+89 4.94203e-07
+90 3.753e-07
+91 2.88008e-07
+92 2.32783e-07
+93 2.00357e-07
+94 1.86012e-07
+95 1.78229e-07
+96 1.6722e-07
+97 1.49607e-07
+98 1.27755e-07
+99 1.01382e-07
+100 7.91278e-08
+101 6.28695e-08
+102 5.23697e-08
+103 4.52852e-08
+104 3.97466e-08
+105 3.45071e-08
+106 2.95001e-08
+107 2.46892e-08
+108 2.0311e-08
+109 1.69748e-08
+110 1.46363e-08
+111 1.26375e-08
+112 1.07762e-08
+113 9.04125e-09
+114 7.59143e-09
+115 6.31469e-09
+116 5.18259e-09
